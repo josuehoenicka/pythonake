@@ -41,7 +41,7 @@ food = turtle.Turtle()
 #velocidad nula
 food.speed(0)
 #forma de la manzana
-food.shape("square")
+food.shape("circle")
 #color de la manzana 
 food.color("red")
 #penup:  levantar el lápiz del papel. Una vez levantado el lapiz del papel, al desplazar el lápiz ya no se dibujan segmentos
