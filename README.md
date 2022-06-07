@@ -1,7 +1,15 @@
-<h2>SPANISH</h2>
+<b>ENGLISH</b>
 
-<p>Snakenix es un minijuego elaborado en Phyton, es muy basico, la serpiente al comer la manzana, aumenta una unidad y la manzana respawnea, el juego se reinicia si tocas los laterales de la pantalla o cuando la serpienta choca consigo misma. La maxima puntuacion se ira guardando, pero se perdera cuando cierres el juego</p>
+Snake.cka is a video game owned by PlayHoenicka. It's a video game based on the theme of the game that we played sometime in a nokia, it's going to the generation of the 90's or the beginning of the 2000's! it was developed in Python, for now there are no improvements to this project
 
-<h2>ENGLISH</h2>
+<b>SPANISH</b>
 
-<p>Snakenix is a minigame developed in Phyton, it is very basic, when the snake eats the apple, it increases one unit and the apple respawns, the game restarts if you touch the sides of the screen or when the snake collides with itself. The highest score will be saved, but will be lost when you close the game</p>
+Snake.cka es un videojuego perteneciente de PlayHoenicka. Es un videojuego basado en la tematica del juego que jugamos alguna vez en un nokia, esto va para la generacion del 90 o principios del 2000! fue desarrollado en Phyton, por ahora no se haran mejoras a este proyecto 
+
+<b>PORTUGUESE</b>
+
+Snake.cka é um jogo pertencente do PlayHoenicka. É um jogo baseado na tematica do jogo que voce jogo no nokia, isto vai pra geração dos 90 ou principios de 2000! fue desarrollado em Phyton, por agora este projeto nao vai ter melhoras0
+
+<b>GERMAN</b>
+
+Snake.cka ist ein Videospiel von PlayHoenicka. Es ist ein Videospiel, das auf dem Thema des Spiels basiert, das wir irgendwann in einem Nokia gespielt haben, es geht in die Generation der 90er oder Anfang der 2000er Jahre! es wurde in Python entwickelt, im Moment gibt es keine Verbesserungen an diesem Projekt
