@@ -15,7 +15,7 @@ high_score = 0
 #wn = window
 wn = turtle.Screen()
 #titulo del juego 
-wn.title("Snakenix") 
+wn.title("Snake") 
 #bgcolor = background color
 wn.bgcolor("black") 
 #width y height de la ventana del juego
